@@ -223,7 +223,7 @@ class SecKC_Banner():
                                                        (__)    )\\
                                                           ||--|| *''')
 
-        print(style.GREEN+"       =["+style.GREEN+" metasploit v4.0.1-dev [core:4.0 api:1.0]]")
+        print(style.CYAN+"       =["+style.GREEN+" metasploit v4.0.1-dev [core:4.0 api:1.0]]")
         print(style.GREEN+'''+ -- --=[ 720 exploits - 362 auxiliary - 73 post
 + -- --=[ 226 payloads - 27 encoders  - 8 nops
        =[ svn r13519 updated today (2011.08.11)
