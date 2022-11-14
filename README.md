@@ -9,3 +9,5 @@ Yes, it is says `ban`ner. Cuz you are banned.
 ``` 
 python SecKCBanner.py
 ```
+`ANSI too - Disabled by default cuz its HOOOOOOGE`
+![](https://github.com/NoDataFound/SecKC.Banner/raw/main/ansi.png)
